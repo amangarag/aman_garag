@@ -3,7 +3,7 @@
 I'm a passionate software developer with a love for open-source projects. I'm on a mission to create meaningful, practical, and efficient solutions that make a difference in the world of technology.
 
 🌱 **About Me:**
-- 💻 I specialize in Java,Web Development and Sql.
+- 💻 I specialize in Java,Full stack Web Development and PostgreSql.
 - 🚀 I enjoy tackling complex problems and turning them into elegant, user-friendly solutions.
 - 🌐 Open-source enthusiast, always excited to collaborate on interesting projects.
 
