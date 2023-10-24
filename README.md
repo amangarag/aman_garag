@@ -14,7 +14,7 @@ I'm a passionate software developer with a love for open-source projects. I'm on
 
 💬 **Let's Connect:**
 - 📫 Reach out to me at [your.email@example.com].
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
+- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/amangarag).
 - 🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle).
 
 👨‍💻 **Tech Stack:**
