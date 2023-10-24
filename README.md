@@ -13,7 +13,7 @@ I'm a passionate software developer with a love for open-source projects. I'm on
 <!-- -  -->
 
 💬 **Let's Connect:**
-- 📫 Reach out to me at [ProtonMail](garagaman@proton.me).
+- 📫 Reach out to me at [ProtonMail](mailto:garagaman@proton.me).
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/amangarag).
 <!-- - 🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle). -->
 
