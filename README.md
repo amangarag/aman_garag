@@ -18,7 +18,7 @@ I'm a passionate software developer with a love for open-source projects. I'm on
 <!-- - 🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle). -->
 
 👨‍💻 **Tech Stack:**
-- Java, C-Lang, C++, Data Structures ad Algorithm and Problem Solving.
+- Java, C-Lang, Python, Data Structures ad Algorithm and Problem Solving, Database Management System(PostgreSQL & MySQL).
 
 <!-- 🚁 **Goals:**
 - 🌈 My goal is to be . -->
